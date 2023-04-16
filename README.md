@@ -1,2 +1,6 @@
 # Music Genre Classifier
- This project aims to classify music into different genres
+
+A simple classifier that classifies audio clips into different genres of music based on their audio features. 
+Algorithms used:
+- Random forest
+- XGBoost
